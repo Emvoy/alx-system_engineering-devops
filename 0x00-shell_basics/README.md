@@ -1,1 +1,1 @@
-this script is to print absolute pathname
+this script is to print the absolute current path name
